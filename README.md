@@ -72,7 +72,7 @@ Node 版本：≥8.0
 
 Npm 版本：≥3.0
 
-数据库：PostgreSQL 9.4+ （👍）/ SQLite 3.9+ （👍）/ MySQL 5.7+ / MariaDB 10.2.28+ / Oracle 10.2+ / MSSQL 2008+
+数据库：PostgreSQL 9.4+ （👍）/ SQLite 3.9+ （👍）/ MySQL 5.7+ / MariaDB 10.2+ / Oracle 10.2+ / MSSQL 2008+
 
 Redis: 3.2+
 
