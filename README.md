@@ -24,6 +24,7 @@
 - React
 - SPA 单页应用
 - Redis
+- GraphQL API
 
 ## 特点
 
