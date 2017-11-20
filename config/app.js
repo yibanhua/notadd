@@ -170,7 +170,7 @@ module.exports = {
         */
         console: {
             driver: 'console',
-            name: 'adonis-app',
+            name: 'notadd-app',
             level: 'info'
         },
         /*
@@ -186,8 +186,8 @@ module.exports = {
         */
         file: {
             driver: 'file',
-            name: 'adonis-app',
-            filename: 'adonis.log',
+            name: 'notadd-app',
+            filename: 'notadd.log',
             level: 'info'
         }
     }

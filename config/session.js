@@ -22,7 +22,7 @@ module.exports = {
     | are signed and encrypted.
     |
     */
-    cookieName: 'adonis-session',
+    cookieName: 'notadd-session',
     /*
     |--------------------------------------------------------------------------
     | Clear session when browser closes
