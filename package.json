@@ -12,8 +12,8 @@
         "adonisjs",
         "adonis-app"
     ],
-    "author": "",
-    "license": "UNLICENSED",
+    "author": "notadd",
+    "license": "Apache-2.0",
     "private": true,
     "dependencies": {
         "@adonisjs/ace": "^4.0.7",
