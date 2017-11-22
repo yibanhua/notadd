@@ -16,7 +16,6 @@
     "license": "Apache-2.0",
     "private": true,
     "dependencies": {
-        "@adonisjs/ace": "^4.0.7",
         "@adonisjs/auth": "^2.0.10",
         "@adonisjs/bodyparser": "^1.0.8",
         "@adonisjs/cors": "^1.0.2",
@@ -25,7 +24,8 @@
         "@adonisjs/ignitor": "^1.0.14",
         "@adonisjs/lucid": "^4.0.22",
         "@adonisjs/session": "^1.0.19",
-        "@adonisjs/shield": "^1.0.4"
+        "@adonisjs/shield": "^1.0.4",
+        "@twilroad/console": "^2.0.7"
     },
     "devDependencies": {},
     "autoload": {
