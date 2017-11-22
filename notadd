@@ -11,9 +11,9 @@
 | global proxy all the ace commands.
 |
 */
-const { Ignitor } = require('@adonisjs/ignitor');
+const Bootstrapper = require('@twilroad/bootstrapper');
 
-new Ignitor(require('@adonisjs/fold'))
+new Bootstrapper(require('@adonisjs/fold'))
     .appRoot(__dirname)
     .fireAce()
     .catch(console.error);
