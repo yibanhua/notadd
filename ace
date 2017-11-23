@@ -11,7 +11,7 @@
 | global proxy all the ace commands.
 |
 */
-const Bootstrapper = require('@twilroad/bootstrapper');
+const { Bootstrapper } = require('@twilroad/bootstrapper');
 
 new Bootstrapper(require('@adonisjs/fold'))
     .appRoot(__dirname)

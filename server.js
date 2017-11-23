@@ -15,7 +15,7 @@
 |     Also you can preload files by calling `preLoad('path/to/file')` method.
 |     Make sure to pass relative path from the project root.
 */
-const Bootstrapper = require('@twilroad/bootstrapper');
+const { Bootstrapper } = require('@twilroad/bootstrapper');
 
 new Bootstrapper(require('@adonisjs/fold'))
     .appRoot(__dirname)
