@@ -19,7 +19,7 @@
 
 ## 相关技术
 
-- nodeJS
+- NodeJS
 - AdonisJS
 - React
 - SPA 单页应用
