@@ -19,5 +19,6 @@ const Bootstrapper = require('@twilroad/bootstrapper');
 
 new Bootstrapper(require('@adonisjs/fold'))
     .appRoot(__dirname)
+    .preLoad()
     .fireHttpServer()
     .catch(console.error);
