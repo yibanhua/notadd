@@ -5,8 +5,6 @@
 <a href="https://github.com/notadd/notadd/releases" title="Downloads"><img src="https://img.shields.io/packagist/dt/notadd/framework.svg"></a>
 </p>
 
-
-
 ## [English](#)
 
 > 像搭积木一样快速满足自己的开发需求
@@ -35,7 +33,6 @@
 - GraphQL 接口
 
 ## 模块化设计
-
 
 ![notadd](https://www.notadd.com/src/app.svg)
 
@@ -81,8 +78,6 @@ Redis: 3.2+
 
 ## 快速开始
 
-
-
 安装 Notadd 非常简单，但是我们为你准备了更好的文档来供你阅读，请参阅[完整安装文档](#) 或者 [编译安装文档](#) 。
 
 ## 使用laradock 安装
@@ -99,14 +94,11 @@ Redis: 3.2+
 
 [2017年 7月](https://blog.notadd.com/2017/08/01/2017-07/)
 
-
-
 ## 贡献
 
 欢迎使用 Pull requests。对于重大变更，请先提出 Issue，和我们一起来讨论你想改变的内容。
 
 > 感谢你考虑为 Notadd 作出贡献！具体贡献指南可以在 [Notadd 文档-贡献](https://docs.notadd.com/introductions/#贡献) 中查看。
-
 
 ## 赞助
 
@@ -115,7 +107,6 @@ Redis: 3.2+
 - [西安 · 本初网络](https://www.ibenchu.com)
 - [杭州 · 又拍云](https://www.upyun.com)
 - [西安 · 马达信息](#)
-
 
 ## 交流
 
@@ -129,7 +120,6 @@ QQ 群：[321735506](https://jq.qq.com/?_wv=1027&k=5qVzRh4)
 
 - [Neditor](https://github.com/notadd/neditor) 基于 ueditor 的现代化编辑器。
 - [ThinkSNS Plus](https://github.com/slimkit/thinksns-plus) 基于 Laravel 开发的用户生态系统。
-
 
 ## 开源协议
 
