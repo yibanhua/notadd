@@ -24,6 +24,6 @@
     "devDependencies": {},
     "autoload": {
         "App": "./app",
-        "Notadd": "@twilroad/foundation/src"
+        "Notadd/Foundation": "@twilroad/foundation/src"
     }
 }
