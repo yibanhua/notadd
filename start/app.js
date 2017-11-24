@@ -10,12 +10,11 @@
 |
 */
 const providers = [
-    // '@adonisjs/framework/providers/AppProvider',
     '@adonisjs/framework/providers/ViewProvider',
     '@adonisjs/lucid/providers/LucidProvider',
     '@adonisjs/bodyparser/providers/BodyParserProvider',
     '@adonisjs/cors/providers/CorsProvider',
-    // '@adonisjs/redis/providers/RedisProvider',
+    '@adonisjs/redis/providers/RedisProvider',
     '@adonisjs/shield/providers/ShieldProvider',
     '@adonisjs/session/providers/SessionProvider',
     '@adonisjs/auth/providers/AuthProvider',
