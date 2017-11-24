@@ -1,4 +1,5 @@
 'use strict';
+
 /*
 |--------------------------------------------------------------------------
 | Http server
@@ -15,9 +16,12 @@
 |     Also you can preload files by calling `preLoad('path/to/file')` method.
 |     Make sure to pass relative path from the project root.
 */
-const { Bootstrapper } = require('@twilroad/bootstrapper');
 
-new Bootstrapper(require('@adonisjs/fold'))
-    .appRoot(__dirname)
-    .fireHttpServer()
-    .catch(console.error);
+const { Bootstrapper } = require('@twilroad/bootstrapper');
+const App = new Bootstrapper(
+  require('@adonisjs/fold')
+);
+
+App.appRoot(__dirname)
+   .fireHttpServer()
+   .catch(console.error);
