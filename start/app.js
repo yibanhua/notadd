@@ -19,6 +19,7 @@ const providers = [
     '@adonisjs/shield/providers/ShieldProvider',
     '@adonisjs/session/providers/SessionProvider',
     '@adonisjs/auth/providers/AuthProvider',
+    '@twilroad/backend/providers/BackendProvider',
     '@twilroad/foundation/providers/AppProvider',
     '@twilroad/foundation/providers/FoundationProvider',
 ];

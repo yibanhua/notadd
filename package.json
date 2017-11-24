@@ -16,6 +16,7 @@
     "author": "notadd",
     "license": "Apache-2.0",
     "dependencies": {
+        "@twilroad/backend": "^2.0.1",
         "@twilroad/bootstrapper": "^2.0.1",
         "@twilroad/console": "^2.0.7",
         "@twilroad/foundation": "^2.0.1"
