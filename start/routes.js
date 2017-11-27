@@ -13,5 +13,5 @@
 */
 const Route = use('Route');
 Route.get('/', ({ response }) => {
-    response.send('Notadd is really run correct!');
+    response.send('Notadd 已经正确运行！');
 });
