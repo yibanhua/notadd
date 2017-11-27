@@ -12,4 +12,6 @@
 |
 */
 const Route = use('Route');
-Route.on('/').render('welcome');
+Route.get('/', ({ response }) => {
+    response.send('Notadd is really run correct!');
+});
