@@ -1,16 +1,15 @@
 <p align="center"><img src="https://www.notadd.com/src/notado_logo420x96.svg" alt="Notadd Logo."></p>
 <p align="center">
 <a href="https://jq.qq.com/?_wv=1027&k=5qVzRh4" title="Notadd 官方技术交流群"><img src="https://img.shields.io/badge/QQ%20Group-321735506-6782d6.svg?style=flat-square"></a>
-<a href="https://travis-ci.org/notadd/notadd" title="Build Status"><img src="https://travis-ci.org/notadd/notadd.svg?branch=master"></a>
-<a href="https://packagist.org/packages/notadd/notadd" title="Packagist"><img src="https://img.shields.io/packagist/v/notadd/notadd.svg"></a>
-<a href="https://github.com/notadd/notadd/releases" title="Downloads"><img src="https://img.shields.io/packagist/dt/notadd/framework.svg"></a>
+<a href="https://travis-ci.org/notadd/notadd" title="Build Status"><img src="https://img.shields.io/travis/notadd/notadd/master.svg?style=flat-square"></a>
+<a href="https://packagist.org/packages/notadd/notadd" title="Packagist"><img src="https://img.shields.io/packagist/v/notadd/notadd.svg?style=flat-square"></a>
+<a href="https://github.com/notadd/notadd/releases" title="Downloads"><img src="https://img.shields.io/packagist/dt/notadd/framework.svg?style=flat-square"></a>
 </p>
 
-注： 编译安装只支持 PHP7.1+ 
+[English](README_en.md)
 
-PHP7.0 请直接下载完整包！！！ PHP7.0 请直接下载完整包！！！ PHP7.0 请直接下载完整包！！！
 
-## [English](README_en.md)
+
 
 > 像搭积木一样快速满足自己的开发需求
 >
@@ -19,6 +18,13 @@ PHP7.0 请直接下载完整包！！！ PHP7.0 请直接下载完整包！！�
 > 代码优雅，便于维护和二次开发
 >
 > 让 PHP 实现...更多的可能
+
+
+[查看 Node.js 版本(开发中)](https://github.com/notadd/notadd/tree/2.0-dev)
+
+
+[PHP版 完整安装包](https://www.notadd.com/download/notadd-master.tar.xz)
+
 
 ## 相关技术
 
